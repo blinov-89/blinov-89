@@ -4,6 +4,31 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=True&lines=Data+analyst,+data+scientist;+machine+learning+engineer)](https://git.io/typing-svg)
 
 <!-- <h3 align="center">Data analyst, data scientist, machine learning engineer</h3>
+
+I love 🐍 Python, ML and analyst. 
+
+### 🛠 Technical Stack
+*   Python
+*   SQL: DML (Group query, Sub query, JOIN), DDL
+*   Streamlit, FastAPI
+*   Git, Docker (basic), Linux (basic), 
+
+### 📜 My certificates
+* [Basic Data Science and ML](https://stepik.org/cert/1041297)
+* [Basic SQL](https://stepik.org/cert/934119)
+* [Basic Python](https://stepik.org/cert/259130)
+
+### ☎️ Contacts
+- Telegram: <a href="https://t.me/dima_blinov89">@dima_blinov89</a>
+- E-mail: blinov.7727802@gmail.com
+
+### 📈 GitHub Statistics 📊
+
+
+
+
+
+
 <!--
 **blinov-89/blinov-89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
