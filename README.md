@@ -24,7 +24,8 @@ I love 🐍 Python, ML and analyst.
 
 ### 📈 GitHub Statistics 📊
 
-
+<!---Для компактной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blinov-89&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -45,5 +46,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!---Для подробной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
