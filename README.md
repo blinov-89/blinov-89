@@ -28,7 +28,7 @@ I love 🐍 Python, ML and analyst.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blinov-89&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blinov-89)](https://github.com/blinov-89/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blinov-89)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <h3 align="center">Data analyst, data scientist, machine learning engineer</h3>
