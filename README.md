@@ -3,7 +3,7 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=True&lines=Data+analyst,+data+scientist;+machine+learning+engineer)](https://git.io/typing-svg)
 
-/<h3 align="center">Data analyst, data scientist, machine learning engineer</h3>
+<!-- <h3 align="center">Data analyst, data scientist, machine learning engineer</h3>
 <!--
 **blinov-89/blinov-89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
