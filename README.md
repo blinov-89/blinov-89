@@ -11,7 +11,7 @@ I love 🐍 Python, ML and analyst.
 *   Python
 *   SQL: DML (Group query, Sub query, JOIN), DDL
 *   Streamlit, FastAPI
-*   Git, Docker (basic), Linux (basic), 
+*   Git, Docker (basic), Linux (basic) 
 
 ### 📜 My certificates
 * [Basic Data Science and ML](https://stepik.org/cert/1041297)
